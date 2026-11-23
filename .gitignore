@@ -1,0 +1,16 @@
+# Local credentials
+.env
+.env.*
+!.env.example
+
+# Python environments and generated files
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+frontend/dist/
+frontend/.vercel/
+node_modules/
+
+# Local operating system files
+.DS_Store
